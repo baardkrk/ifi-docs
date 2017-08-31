@@ -146,8 +146,8 @@
    skriftystemet en bestemt lyd (nesten stavelse men ikke helt). 
 
    Det siste skriftsystemet, Kanji, brukes både for å betegne enkelte ord
-   og meninger, men hvert symbol kan uttales forskjellig og ha litt 
-   forskjellig mening ut ifra sammenhengen.
+   og meninger. Det som gjør ting litt vanskelig er at hvert symbol kan uttales 
+   på forskjellige måter, og ha litt forskjellig betydning ut ifra sammenhengen.
 
 ** Omiyage
    Det er vanlig at du tar med deg en liten gave dersom du har reist et sted.
