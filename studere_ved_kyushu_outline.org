@@ -23,6 +23,18 @@
 
    Nedenfor er en forklaring for noen av dem, og andre papirer du vil trenge.
    
+#+name: document-node-table
+| *node*  | *label*                    | *shape* | *fillcolor* |
+|---------+----------------------------+---------+-------------|
+| S_k_app | Kyushu Application form    | ellipse | white       |
+| S_CoE   | Certificate of Eligibility | ellipse | white       |
+
+#+name: document-graph
+| from    | to      | label |
+|---------+---------+-------|
+| S_k_app | S_CoE   |       |
+| S_CoE   | S_k_app |       |
+
 *** Notater for et par punkter i søknadsskjemaet
     I punkt 3 blir du bedt om å fylle ut navnet ditt i katakana, hvis du vet
     hvordan. Dersom du ønsker å fylle ut dette kan et godt tips være å finne 
