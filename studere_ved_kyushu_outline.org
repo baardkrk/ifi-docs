@@ -9,8 +9,10 @@
    FORM". Fyll ut dette etter beste evne, med HAKER der du skal markere 
    alternativer. (Kryss blir vanligvis brukt for å kansellere, dersom du har 
    markert feil alternativ.) 
+
    Sammen med søknadsskjemaet vil du bli bedt om å sende en del andre 
    dokumenter. (Nederst på søknaden står hvilke) 
+
    Nedenfor er en forklaring for noen av dem, og andre papirer du vil trenge.
    
 *** Notater for et par punkter i søknadsskjemaet
@@ -18,9 +20,11 @@
     det. Dersom du ønsker å fylle ut dette kan et godt tips være å finne 
     wikipedia-siden til en person med samme navn som deg, og skifte språk til
     Japansk. 
+
     I tabellen for "Academic Data" skal du ikke fylle ut ditt nåværende 
     studieprogram i tabellen med resten av Utdanningen. Det er et eget felt 
     for det under.
+
     Under punktet "Financial support" vil du huke av for "Scolarship except 
     Japan". "Sponsor's name" vil være "Norwegian Research Council/University 
     of Oslo" dersom du deltar i COINMAC samarbeidet.
@@ -50,6 +54,7 @@
 **** Bank statement
      Her holder det med en kontoutskrift der det går frem hvor mye du har som
      utgående saldo.
+
      Dersom du bare kan få denne på norsk fra din bank må du selv legge ved en 
      oversettelse til engelsk.
 **** Certificate of Scolarship
@@ -58,27 +63,45 @@
      I tillegg kan du opplyse om lån/stipend du får fra lånekassen.
 *** Visum
     Etter at du har fått Certificate of Elegibility tilsendt, kan du søke om
-    visum ved den Japanske ambassaden i Oslo. 
+    visum ved den Japanske ambassaden i Oslo. Søknadsprosessen her tar rundt
+    1 uke dersom alle papirene er i orden. Man trenger heller ikke å bestille
+    time før man drar til ambassaden.
+ 
+    Dersom du likevel har dårlig tid er det mulighet for å få utsendt visum 
+    fortere. Dersom alle papirer er i orden, og du sender scannet kopi til 
+    ambassaden på forhånd kan man bestille "one day visa issuing". Da kan man 
+    komme til ambassaden mellom kl. 09:00 og 10:00 for å levere alle originale 
+    papirer. Da kan ambassaden sende ut visum samme dag kl. 15:00.
+
     [[http://www.mofa.go.jp/files/000124525.pdf][Søknadsskjema]]
+
     [[http://www.mofa.go.jp/j_info/visit/visa/process/long.html][Flytskjema]]
+
     Mer info om [[http://www.mofa.go.jp/j_info/visit/visa/long/visa6.html][studentvisum]]
+
     Hjemmesiden til [[http://www.no.emb-japan.go.jp/itprtop_nb/index.html][Japans ambassade i Norge]]
 
+    
 ** Helse
    Les gjerne med om dette for oppdatert informasjon på [[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_japan/id2415973/][ud's hjemmesider]].
+
    Denguefeber
+
    Japansk encefalitt
 *** Vaksiner
     Oppdatert informasjon om vaksiner finner du [[https://www.fhi.no/sv/vaksine/reisevaksiner/verden/vaksiner-ved-reise-til-asia/][her]].
     Du vil måtte ta vaksinene for gurppe II. Dersom du ikke har fått 
     påfyll av vaksinene fra barnevaksinene må du få påfyll av disse også. 
     (disse er dTP-IPV og muligens TBE.)
+
     Videre er de nye vaksinene du eventuelt trenger Japansk encefalitt og 
     Hepatitt-B vaksine. Disse kan du bestille hos [[https://www.sio.no/helse/reisevaksine][SiO's reisevaksinasjon]]. 
     Japansk encefalittvaksinen må tas i 2 doser med ca 28 dagers mellomrom.
     (Den kan visstnok tas med 7 dagers mellomrom, men legen anbefalte å vente
     så lenge som mulig.)
+
     Prisen som står hos SiO er per dose. 
+
     Hepatitt-B vaksine gis vanligvis i 4 doser for best beskyttelse, og bør 
     startes tidlig. Den kan også gis i hurtigregime, se [[https://www.fhi.no/nettpub/vaksinasjonsveilederen/vaksiner-mot-de-enkelte-sykdommene/hepatitt-b-vaksinasjon-og-hepatitt-/][Tabell 4]].
 ** Forsikring
@@ -86,6 +109,7 @@
    Japans nasjonale helseforsikring. Dette kan du få hjelp ved enten når 
    du søker om visum ved ambassaden i Japan, eller ved helpesenteret når du
    kommer til universitetet. 
+
    Det er også anbefalt å melde seg inn i ansa og kjøpe deres [[http://www.ansa.no/Forsikring/][studentforsikring]].
     
     
