@@ -1,0 +1,85 @@
+* Introduksjon
+
+* Praktisk info
+** Dokumenter / søknader
+   Etter at din veileder har kontaktet Universitetet i Kyushu og det har 
+   blitt klart at du kan reise, vil du få en mail fra Universitetet. I denne
+   mailen vil fremgangsmåten i prosessen bli forklart, og du vil få 
+   søknadsskjemaet "KYUSHU UNIVERSITY SPECIAL RESEARCH STUDENT APPLICATION 
+   FORM". Fyll ut dette etter beste evne, med HAKER der du skal markere 
+   alternativer. (Kryss blir vanligvis brukt for å kansellere, dersom du har 
+   markert feil alternativ.) 
+   Sammen med søknadsskjemaet vil du bli bedt om å sende en del andre 
+   dokumenter. (Nederst på søknaden står hvilke) 
+   Nedenfor er en forklaring for noen av dem, og andre papirer du vil trenge.
+   
+*** Notater for et par punkter i søknadsskjemaet
+    I punkt 3 blir du bedt om å fylle ut navnet ditt i katakana, hvis du vet
+    det. Dersom du ønsker å fylle ut dette kan et godt tips være å finne 
+    wikipedia-siden til en person med samme navn som deg, og skifte språk til
+    Japansk. 
+    I tabellen for "Academic Data" skal du ikke fylle ut ditt nåværende 
+    studieprogram i tabellen med resten av Utdanningen. Det er et eget felt 
+    for det under.
+    Under punktet "Financial support" vil du huke av for "Scolarship except 
+    Japan". "Sponsor's name" vil være "Norwegian Research Council/University 
+    of Oslo" dersom du deltar i COINMAC samarbeidet.
+    Du trenger ikke å fylle ut noe mer enn dette under "Financial support".
+*** Passfoto
+    Du vil trenge et passfoto som er tatt for ikke lenger enn 6 måneder siden.
+    Print gjerne ut 5-6 stykker da du vil få bruk for dem til studentkort o.l.
+*** Student registration certificate
+    Her kan du be studieadministrasjonen om et brev som bekrefter at du er
+    tatt opp som student ved Universitetet i Oslo i perioden utvekslingen 
+    finner sted.
+*** Letter of Recommendation
+    Før du søker kan det være greit å ha klart et anbefalingsbrev fra din
+    veileder, da du trenger dette senere i søknadsprosessen.
+*** Certificate of Elegibility
+    Du vil få dette etter at søknadsprosessen til universitetet et ferdig.
+    Dette dokumentet er det viktig å komme i gang med å skaffe tidlig, da
+    det kan ta lang tid å få det utsendt. I mitt tilfelle tok det 2-3 måneder
+    før dokumentet var klart. Deretter må det også være nok tid til at du 
+    får dokumentet tilsendt. Dette kan ta minst 2 uker.
+*** Academic Transcript
+    Her holder det med en engelsk utskrift av karakterene dine fra 
+    Universitetet, eventuelt fra tidligere grader.
+*** Penger
+    De ønsker at du skal bevise at du kan klare deg den tiden du er i Japan.
+    Derfor må du gjøre klar følgende dokumenter.
+**** Bank statement
+     Her holder det med en kontoutskrift der det går frem hvor mye du har som
+     utgående saldo.
+     Dersom du bare kan få denne på norsk fra din bank må du selv legge ved en 
+     oversettelse til engelsk.
+**** Certificate of Scolarship
+     Dette dokumentet skal være en bekreftelse på stipendet du får under 
+     oppholdet. i.e. en bekreftelse på hva du får fra COINMAC samarbeidet.
+     I tillegg kan du opplyse om lån/stipend du får fra lånekassen.
+*** Visum
+    Etter at du har fått Certificate of Elegibility tilsendt, kan du søke om
+    visum ved den Japanske ambassaden i Oslo. 
+    [[http://www.mofa.go.jp/files/000124525.pdf][Søknadsskjema]]
+    [[http://www.mofa.go.jp/j_info/visit/visa/process/long.html][Flytskjema]]
+    Mer info om [[http://www.mofa.go.jp/j_info/visit/visa/long/visa6.html][studentvisum]]
+    Hjemmesiden til [[http://www.no.emb-japan.go.jp/itprtop_nb/index.html][Japans ambassade i Norge]]
+
+** Helse
+   Les gjerne med om dette for oppdatert informasjon på [[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_japan/id2415973/][ud's hjemmesider]].
+   Denguefeber
+   Japansk encefalitt
+*** Vaksiner
+    Oppdatert informasjon om vaksiner finner du [[https://www.fhi.no/sv/vaksine/reisevaksiner/verden/vaksiner-ved-reise-til-asia/][her]].
+    Du vil måtte ta vaksinene for gurppe II. Dersom du ikke har fått 
+    påfyll av vaksinene fra barnevaksinene må du få påfyll av disse også. 
+    (disse er dTP-IPV og muligens TBE.)
+    Videre er de nye vaksinene du eventuelt trenger Japansk encefalitt og 
+    Hepatitt-B vaksine. Disse kan du bestille hos [[https://www.sio.no/helse/reisevaksine][SiO's reisevaksinasjon]]. 
+
+** Forsikring
+   Dersom du skal være lenger i Japan enn 3 måneder, må du melde deg inn i
+   Japans nasjonale helseforsikring. Dette kan du få hjelp ved enten når 
+   du søker om visum ved ambassaden i Japan, eller ved helpesenteret når du
+   kommer til universitetet. 
+    
+    

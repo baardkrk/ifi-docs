@@ -1,0 +1,1 @@
+This is a repo for various documents Produced for the Institute for Informatics at the University of Oslo
