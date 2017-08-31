@@ -75,11 +75,17 @@
     (disse er dTP-IPV og muligens TBE.)
     Videre er de nye vaksinene du eventuelt trenger Japansk encefalitt og 
     Hepatitt-B vaksine. Disse kan du bestille hos [[https://www.sio.no/helse/reisevaksine][SiO's reisevaksinasjon]]. 
-
+    Japansk encefalittvaksinen må tas i 2 doser med ca 28 dagers mellomrom.
+    (Den kan visstnok tas med 7 dagers mellomrom, men legen anbefalte å vente
+    så lenge som mulig.)
+    Prisen som står hos SiO er per dose. 
+    Hepatitt-B vaksine gis vanligvis i 4 doser for best beskyttelse, og bør 
+    startes tidlig. Den kan også gis i hurtigregime, se [[https://www.fhi.no/nettpub/vaksinasjonsveilederen/vaksiner-mot-de-enkelte-sykdommene/hepatitt-b-vaksinasjon-og-hepatitt-/][Tabell 4]].
 ** Forsikring
    Dersom du skal være lenger i Japan enn 3 måneder, må du melde deg inn i
    Japans nasjonale helseforsikring. Dette kan du få hjelp ved enten når 
    du søker om visum ved ambassaden i Japan, eller ved helpesenteret når du
    kommer til universitetet. 
+   Det er også anbefalt å melde seg inn i ansa og kjøpe deres [[http://www.ansa.no/Forsikring/][studentforsikring]].
     
     
