@@ -25,7 +25,7 @@
    
 *** Notater for et par punkter i søknadsskjemaet
     I punkt 3 blir du bedt om å fylle ut navnet ditt i katakana, hvis du vet
-    det. Dersom du ønsker å fylle ut dette kan et godt tips være å finne 
+    hvordan. Dersom du ønsker å fylle ut dette kan et godt tips være å finne 
     wikipedia-siden til en person med samme navn som deg, og skifte språk til
     Japansk. 
 
@@ -132,6 +132,28 @@
    du søker om visum ved ambassaden i Japan, eller ved helpesenteret når du
    kommer til universitetet. 
 
-   Det er også anbefalt å melde seg inn i ansa og kjøpe deres [[http://www.ansa.no/Forsikring/][studentforsikring]].
+   Det er også anbefalt å melde seg inn i ansa, eller en lignende organisasjon,
+   og kjøpe deres [[http://www.ansa.no/Forsikring/][studentforsikring]].
     
+* Ved ankomst
     
+* Annet / kjekt å vite
+
+** [[https://en.wikipedia.org/wiki/Katakana][Katakana]]
+   Katakana er ett av de 3 skriftsystemene man bruker i Japan. Det blir 
+   vanligvis brukt for å skrive engelske (og bla. portugisiske) lånord og 
+   utenlandske navn. I likhet med Hiragana betegner hvert tegn i dette 
+   skriftystemet en bestemt lyd (nesten stavelse men ikke helt). 
+
+   Det siste skriftsystemet, Kanji, brukes både for å betegne enkelte ord
+   og meninger, men hvert symbol kan uttales forskjellig og ha litt 
+   forskjellig mening ut ifra sammenhengen.
+
+** Omiyage
+   Det er vanlig at du tar med deg en liten gave dersom du har reist et sted.
+   Dette er vanligvis noe spiselig, så ta gjerne med noe snacks/godteri 
+   fra Norge som studentene/personellet på laben kan smake. 
+   (Valget mitt landet på Kvikk Lunsj)
+
+   Men, vær obs på at det kan være restriksjoner på hva du kan få lov til å ta
+   med inn i landet. 
