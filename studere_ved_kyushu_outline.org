@@ -23,19 +23,18 @@
 
    Nedenfor er en forklaring for noen av dem, og andre papirer du vil trenge.
    
-   | Dokumenter og ting du kan ordne med en gang | vente                      | Siste steg |
-   |---------------------------------------------+----------------------------+------------|
-   | Kyushu special research student application | Certificate of Eligibility | Visum      |
-   | Research plan                               |                            |            |
-   | Passfoto                                    |                            |            |
-   | Student Registration Certificate            |                            |            |
-   | Letter of recommendation                    |                            |            |
-   | Academic transcript                         |                            |            |
-   | Certificate of scholarship                  |                            |            |
-   | Bank statement                              |                            |            |
-   | Certificate of scholarship                  |                            |            |
-   |---------------------------------------------+----------------------------+------------|
-   | Vaksiner                                    |                            |            |
+   | Dokumenter og ting du kan ordne med en gang | Får tilsendt                                | Siste steg |
+   |---------------------------------------------+---------------------------------------------+------------|
+   | Student Registration Certificate            | Certificate of Eligibility                  | Visum      |
+   | Academic transcript                         | Kyushu special research student application |            |
+   | Passfoto                                    | Research plan                               |            |
+   |                                             |                                             |            |
+   | Letter of recommendation                    |                                             |            |
+   | Certificate of scholarship                  |                                             |            |
+   |                                             |                                             |            |
+   | Bank statement                              |                                             |            |
+   |---------------------------------------------+---------------------------------------------+------------|
+   | Vaksiner                                    |                                             |            |
 
 *** Notater for et par punkter i søknadsskjemaet
     I punkt 3 blir du bedt om å fylle ut navnet ditt i katakana, hvis du vet
