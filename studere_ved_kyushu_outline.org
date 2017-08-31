@@ -23,17 +23,19 @@
 
    Nedenfor er en forklaring for noen av dem, og andre papirer du vil trenge.
    
-#+name: document-node-table
-| *node*  | *label*                    | *shape* | *fillcolor* |
-|---------+----------------------------+---------+-------------|
-| S_k_app | Kyushu Application form    | ellipse | white       |
-| S_CoE   | Certificate of Eligibility | ellipse | white       |
-
-#+name: document-graph
-| from    | to      | label |
-|---------+---------+-------|
-| S_k_app | S_CoE   |       |
-| S_CoE   | S_k_app |       |
+   | Dokumenter og ting du kan ordne med en gang | vente                      | Siste steg |
+   |---------------------------------------------+----------------------------+------------|
+   | Kyushu special research student application | Certificate of Eligibility | Visum      |
+   | Research plan                               |                            |            |
+   | Passfoto                                    |                            |            |
+   | Student Registration Certificate            |                            |            |
+   | Letter of recommendation                    |                            |            |
+   | Academic transcript                         |                            |            |
+   | Certificate of scholarship                  |                            |            |
+   | Bank statement                              |                            |            |
+   | Certificate of scholarship                  |                            |            |
+   |---------------------------------------------+----------------------------+------------|
+   | Vaksiner                                    |                            |            |
 
 *** Notater for et par punkter i søknadsskjemaet
     I punkt 3 blir du bedt om å fylle ut navnet ditt i katakana, hvis du vet
@@ -128,8 +130,9 @@
    Du kan få noe av det du betaler for språkkurs dekket av lånekassen. Du må da 
    være påpasselig med at kurset går over mer enn 4 uker for å kvalifisere. 
    Kyushu arrangerer språkkurs som sammenfaller med sommerferien, men de har 
-   ganske tidlig søknadsfrist. Du bør også være påpasselig med å sjekke varigheten på 
-   kurset, slik at du kan få det dekket av lånekassen.
+   ganske tidlig søknadsfrist, og jeg har ikke sjekket hvor lenge dette varer.
+   (Jeg tok et annet kurs på Kwansei Gakuin University, men det varte bare i 
+   3 uker.)
 ** Helse
    OBS! Dette dokumentet er ikke skrevet av kvalifisert helsepersonell, 
    og er kun ment til orientering for at du skal kunne planlegge tiden 
