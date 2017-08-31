@@ -103,14 +103,16 @@
     hadde vært gjennom det samme.
 ** Språkkurs
    Jeg vil absolutt anbefale å bruke tiden før du reiser/den første tiden du er 
-   her til å lære litt grunnleggende Japansk. 
-   Selv meldte jeg meg av eget initiativ på et meget godt kurs som ble holdt ved 
-   Kwansei Gakuin University. 
+   her til å lære litt grunnleggende Japansk. De regner ikke med at du kan noe 
+   japansk på labben, men jeg vil si at de daglige gjøremålene blir mye lettere 
+   dersom du kan noe grunnleggende. (Kan anbefale "Genki" til selvstudium dersom
+   du har tid.)
 
    Du kan få noe av det du betaler for språkkurs dekket av lånekassen. Du må da 
    være påpasselig med at kurset går over mer enn 4 uker for å kvalifisere. 
-   Dessverre varte kurset på Kwansei bare i 3 uker. Kyushu Arrangerer også 
-   språkkurs, men de har ganske tidlig søknadsfrist.
+   Kyushu arrangerer språkkurs som sammenfaller med sommerferien, men de har 
+   ganske tidlig søknadsfrist. Du bør også være påpasselig med å sjekke varigheten på 
+   kurset, slik at du kan få det dekket av lånekassen.
 ** Helse
    OBS! Dette dokumentet er ikke skrevet av kvalifisert helsepersonell, 
    og er kun ment til orientering for at du skal kunne planlegge tiden 
@@ -120,15 +122,15 @@
    Les gjerne mer om dette for oppdatert informasjon på [[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_japan/id2415973/][ud's hjemmesider]].
 *** Vaksiner
     Oppdatert informasjon om vaksiner finner du [[https://www.fhi.no/sv/vaksine/reisevaksiner/verden/vaksiner-ved-reise-til-asia/][her]].
-    Du vil måtte ta vaksinene for gurppe II. Dersom du ikke har fått 
-    påfyll av vaksinene fra barnevaksinene må du få påfyll av disse også. 
+    Du vil måtte ta vaksinene for gruppe II. Dersom du ikke har fått 
+    påfyll av barnevaksinene bør du få påfyll av disse også. 
     (disse er dTP-IPV og muligens TBE.)
 
     Videre er de nye vaksinene du eventuelt trenger Japansk encefalitt og 
     Hepatitt-B vaksine. Disse kan du bestille hos [[https://www.sio.no/helse/reisevaksine][SiO's reisevaksinasjon]]. 
     Japansk encefalittvaksinen må tas i 2 doser med ca 28 dagers mellomrom.
     (Den kan visstnok tas med 7 dagers mellomrom, men legen anbefalte å vente
-    så lenge som mulig.)
+    de 28 dagene.)
 
     Prisen som står hos SiO er per dose. 
 
