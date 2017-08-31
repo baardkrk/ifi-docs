@@ -1,5 +1,13 @@
-* Introduksjon
 
+**** TODO Obs! dette dokumentet er ikke sjekket for skrivefeil!
+
+* Introduksjon
+  Gratulerer med beslutningen om å dra til Japan! Det vil du ikke angre på!
+  Jeg håper dette dokumentet kan hjelpe deg å få en oversikt over hva som 
+  må på plass av dokumentasjon og papirer før du kan reise. 
+
+  Det vil også inneholde noe informasjon om hva du må ordne når du ankommer, 
+  og litt generelle tips og erfaringer fra en student til en annen :)
 * Praktisk info
 ** Dokumenter / søknader
    Etter at din veileder har kontaktet Universitetet i Kyushu og det har 
@@ -39,7 +47,7 @@
 *** Letter of Recommendation
     Før du søker kan det være greit å ha klart et anbefalingsbrev fra din
     veileder, da du trenger dette senere i søknadsprosessen.
-*** Certificate of Elegibility
+*** Certificate of Eligibility
     Du vil få dette etter at søknadsprosessen til universitetet et ferdig.
     Dette dokumentet er det viktig å komme i gang med å skaffe tidlig, da
     det kan ta lang tid å få det utsendt. I mitt tilfelle tok det 2-3 måneder
@@ -47,7 +55,8 @@
     får dokumentet tilsendt. Dette kan ta minst 2 uker.
 *** Academic Transcript
     Her holder det med en engelsk utskrift av karakterene dine fra 
-    Universitetet, eventuelt fra tidligere grader.
+    Universitetet, eventuelt fra tidligere studier. Det er mest viktig å få 
+    med det siste du har gjort.
 *** Penger
     De ønsker at du skal bevise at du kan klare deg den tiden du er i Japan.
     Derfor må du gjøre klar følgende dokumenter.
@@ -62,16 +71,16 @@
      oppholdet. i.e. en bekreftelse på hva du får fra COINMAC samarbeidet.
      I tillegg kan du opplyse om lån/stipend du får fra lånekassen.
 *** Visum
-    Etter at du har fått Certificate of Elegibility tilsendt, kan du søke om
+    Etter at du har fått Certificate of Eligibility tilsendt, kan du søke om
     visum ved den Japanske ambassaden i Oslo. Søknadsprosessen her tar rundt
     1 uke dersom alle papirene er i orden. Man trenger heller ikke å bestille
     time før man drar til ambassaden.
  
     Dersom du likevel har dårlig tid er det mulighet for å få utsendt visum 
-    fortere. Dersom alle papirer er i orden, og du sender scannet kopi til 
-    ambassaden på forhånd kan man bestille "one day visa issuing". Da kan man 
+    fortere. Hvis alle papirene dine er i orden, og du sender scannet kopi til 
+    ambassaden på forhånd, kan man bestille "one day visa issuing". Da kan man 
     komme til ambassaden mellom kl. 09:00 og 10:00 for å levere alle originale 
-    papirer. Da kan ambassaden sende ut visum samme dag kl. 15:00.
+    papirer. Ambassaden vil da sende ut visum samme dag kl. 15:00.
 
     [[http://www.mofa.go.jp/files/000124525.pdf][Søknadsskjema]]
 
