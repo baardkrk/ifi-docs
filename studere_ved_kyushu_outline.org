@@ -27,12 +27,10 @@
    |---------------------------------------------+---------------------------------------------+------------|
    | Student Registration Certificate            | Certificate of Eligibility                  | Visum      |
    | Academic transcript                         | Kyushu special research student application |            |
-   | Passfoto                                    | Research plan                               |            |
-   |                                             |                                             |            |
+   | Bank statement                              | Research plan                               |            |
+   | Passfoto                                    |                                             |            |
    | Letter of recommendation                    |                                             |            |
    | Certificate of scholarship                  |                                             |            |
-   |                                             |                                             |            |
-   | Bank statement                              |                                             |            |
    |---------------------------------------------+---------------------------------------------+------------|
    | Vaksiner                                    |                                             |            |
 
