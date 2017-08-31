@@ -131,7 +131,8 @@
     påfyll av barnevaksinene bør du få påfyll av disse også, da det er anbefalt
     å ta dem rundt hvert tiende år. (disse er dTP-IPV og muligens TBE.)
 
-    Du kan sjekke hvilke vaksiner du har tatt og når du tok dem hos [[https://helsenorge.no/vaksiner/mine-vaksiner][mine vaksiner]].
+    Du kan sjekke hvilke vaksiner du har tatt og når du tok dem hos [[https://helsenorge.no/vaksiner/mine-vaksiner][mine vaksiner]]. 
+    Ta med en utskrift av dette når du går til legen.
 
     Videre er de nye vaksinene du eventuelt trenger Japansk encefalitt og 
     Hepatitt-B vaksine. Disse kan du bestille hos [[https://www.sio.no/helse/reisevaksine][SiO's reisevaksinasjon]]. 
