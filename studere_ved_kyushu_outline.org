@@ -128,8 +128,10 @@
 *** Vaksiner
     Oppdatert informasjon om vaksiner finner du [[https://www.fhi.no/sv/vaksine/reisevaksiner/verden/vaksiner-ved-reise-til-asia/][her]].
     Du vil måtte ta vaksinene for gruppe II. Dersom du ikke har fått 
-    påfyll av barnevaksinene bør du få påfyll av disse også. 
-    (disse er dTP-IPV og muligens TBE.)
+    påfyll av barnevaksinene bør du få påfyll av disse også, da det er anbefalt
+    å ta dem rundt hvert tiende år. (disse er dTP-IPV og muligens TBE.)
+
+    Du kan sjekke hvilke vaksiner du har tatt og når du tok dem [[https://helsenorge.no/vaksiner/mine-vaksiner][her]].
 
     Videre er de nye vaksinene du eventuelt trenger Japansk encefalitt og 
     Hepatitt-B vaksine. Disse kan du bestille hos [[https://www.sio.no/helse/reisevaksine][SiO's reisevaksinasjon]]. 
@@ -163,6 +165,8 @@
    og kjøpe deres [[http://www.ansa.no/Forsikring/][studentforsikring]].
     
 * Ved ankomst
+
+* Om campus
     
 * Annet / kjekt å vite
 
@@ -182,5 +186,5 @@
    fra Norge som studentene/personellet på laben kan smake. 
    (Valget mitt landet på Kvikk Lunsj)
 
-   Men, vær obs på at det kan være restriksjoner på hva du kan få lov til å ta
+   Men, vær bevisst på at det kan være restriksjoner på hva du kan få lov til å ta
    med inn i landet. 
