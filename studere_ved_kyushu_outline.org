@@ -83,11 +83,21 @@
 
     
 ** Helse
-   Les gjerne med om dette for oppdatert informasjon på [[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_japan/id2415973/][ud's hjemmesider]].
+   OBS! Dette dokumentet er ikke skrevet av kvalifisert helsepersonell, 
+   og er kun ment til orientering for at du skal kunne planlegge tiden 
+   du må bruke før du reiser. Derfor må du selv sjekke faktaopplysninger 
+   og snakke med legen din angående vaksiner osv.
 
-   Denguefeber
+   Les gjerne mer om dette for oppdatert informasjon på [[https://www.regjeringen.no/no/tema/utenrikssaker/reiseinformasjon/velg-land/reiseinfo_japan/id2415973/][ud's hjemmesider]].
 
-   Japansk encefalitt
+   Denguefeber - Sykdom spredd av mygg. Jeg fikk opplysning om å beskytte
+   meg mot denne sykdommen før jeg reiste. Forebyggende tiltak er rett og 
+   slett å unngå å bli stukket av mygg. I skrivende stund har jeg ikke 
+   hatt noe særlig problemer med dette. Du kan lese mer om denguefeber på
+   [[https://www.fhi.no/nettpub/smittevernveilederen/sykdommer-a-a/denguefeber/][fhi's hjemmesider]].
+
+   Japansk encefalitt - En type hjernehinnebetennelse spredd av mygg. 
+   Forebyggende tiltak er vaksinasjon.
 *** Vaksiner
     Oppdatert informasjon om vaksiner finner du [[https://www.fhi.no/sv/vaksine/reisevaksiner/verden/vaksiner-ved-reise-til-asia/][her]].
     Du vil måtte ta vaksinene for gurppe II. Dersom du ikke har fått 
@@ -103,7 +113,10 @@
     Prisen som står hos SiO er per dose. 
 
     Hepatitt-B vaksine gis vanligvis i 4 doser for best beskyttelse, og bør 
-    startes tidlig. Den kan også gis i hurtigregime, se [[https://www.fhi.no/nettpub/vaksinasjonsveilederen/vaksiner-mot-de-enkelte-sykdommene/hepatitt-b-vaksinasjon-og-hepatitt-/][Tabell 4]].
+    startes tidlig. Dette fordi man vanligvis venter 5 mnd mellom dose 2 og 3. 
+    Men, den kan også gis i hurtigregime. Da tar prosessen rundt 1 måned, og 
+    du kan ta den 4 dosen når du kommer hjem etter 1 år (dersom du ønsker å 
+    en langtidsvirkende vaksine.) se [[https://www.fhi.no/nettpub/vaksinasjonsveilederen/vaksiner-mot-de-enkelte-sykdommene/hepatitt-b-vaksinasjon-og-hepatitt-/][Tabell 4]].
 ** Forsikring
    Dersom du skal være lenger i Japan enn 3 måneder, må du melde deg inn i
    Japans nasjonale helseforsikring. Dette kan du få hjelp ved enten når 
